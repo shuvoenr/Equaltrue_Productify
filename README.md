@@ -1,2 +1,2 @@
-# Equaltrue_Productify
-Equaltrue Productify
+# Productify
+Productify
